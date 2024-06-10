@@ -1,4 +1,4 @@
-### Welcome on my GitHub profile !
+### 🦈 Welcome on my GitHub profile ! 🦈
 
 <p>I'm currently in a formation to become web/web mobile developer, I'm looking for a work-study program as a front-end, back-end or full-stack developer.</p>
 
@@ -30,7 +30,7 @@
 
 <p>📚 My training allowed me to acquire solid skills in HTML, CSS, JavaScript, SQL, as well as the Node.js and Express.js frameworks.</p>
 
-<p>📌 I developed dynamic user interfaces using React.js, while regularly using tools like Figma, Visual Studio Code</p>
+<p>📌 I developed dynamic user interfaces using React.js, while regularly using tools like Figma, Visual Studio Code.</p>
 
 <p>🔗 I learned to put agile methodologies into practice throughout my projects, particularly with the Scrum method.</p>
 
