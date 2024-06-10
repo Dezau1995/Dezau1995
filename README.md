@@ -2,17 +2,12 @@
 
 <p>I'm currently in a formation to become web/web mobile developer, I'm looking for a work-study program as a front-end, back-end or full-stack developer.</p>
 
-<p>I've already worked on two project and I'm working on my last project (in the formation), this project will allows me to pass my certification.</p>
-<p>This project will allow me to put into practice and validate my skills, both at the front-end and back-end level.</p>
+<p>I've already worked on two project and I'm working on my last project (in the formation), this project will be useful to pass my certification.</p>
+<p>He will allow me to put into practice and validate my skills, both at the front-end and back-end level.</p>
 
-<p>
-      I invite you to check
-      <a
-        href="https://aude-sedillo.vercel.app/"
-        target="_blank"
-        >my Portfolio.</a
-      >
-</p>
+<p>🔮 I invite you to check <a href="https://aude-sedillo.vercel.app/" target="_blank">my Portfolio.</a></p>
+
+<p>🗄️ Here my <a href="www.linkedin.com/in/aude-sedillo" target="_blank">LinkedIn</a>page .</p>
 
 
 ### Tech and tools skills : 
@@ -37,3 +32,5 @@
 <p>🖌️ I also gained experience in the field of UX/UI, which allows me to be versatile in interface design.</p>
 
 <p>🔍 I am ready to learn and use any programming language or framework.</p>
+
+<p>📫 How to contact me: aude.sedillo@gmail.com</p>
