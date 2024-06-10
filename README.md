@@ -7,7 +7,7 @@
 
 <p>🔮 I invite you to check <a href="https://aude-sedillo.vercel.app/" target="_blank">my Portfolio.</a></p>
 
-<p>🗄️ Here my <a href="www.linkedin.com/in/aude-sedillo" target="_blank">LinkedIn</a> page .</p>
+<p>🗄️ Here my <a href="www.linkedin.com/in/aude-sedillo" target="_blank">LinkedIn</a> page.</p>
 
 
 ### Tech and tools skills : 
