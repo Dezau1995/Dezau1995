@@ -23,7 +23,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-44883e?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p>📚 My training allowed me to acquire solid skills in HTML, CSS, JavaScript, SQL, as well as the Node.js and Express.js frameworks.</p>
+<p>📚 My training allowed me to acquire solid skills in HTML, CSS, JavaScript, SQL, utilizing the Node.js environment for execution, and the Express.js framework.</p>
 
 <p>📌 I developed dynamic user interfaces using React.js, while regularly using tools like Figma, Visual Studio Code.</p>
 
