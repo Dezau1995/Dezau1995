@@ -1,9 +1,9 @@
 ### 🦈 Welcome on my GitHub profile ! 🦈
 
-<p>I'm currently in a formation to become web/web mobile developer, I'm looking for a work-study program as a front-end, back-end or full-stack developer.</p>
+<p>I am currently working as a full-stack web developer on a work-study program at Compani while attending Wild Code School, since September 2024.</p>
 
-<p>I've already worked on two project and I'm working on my last project (in the formation), this project will be useful to pass my certification.</p>
-<p>He will allow me to put into practice and validate my skills, both at the front-end and back-end level.</p>
+<p>I obtained my Bac +2 certification after completing five months of intensive training at Wild Code School. Following this training, three projects were developed, one of which was deployed and put into production using OVH Cloud.</p>
+<p>Through this work-study program, I will have the opportunity to create a project from scratch to production, as part of a team of six people. We have the freedom to choose the technologies and stack to use, as well as to work on graphic design and user experience.</p>
 
 <p>🔮 I invite you to check <a href="https://aude-sedillo.vercel.app/" target="_blank">my Portfolio.</a></p>
 
