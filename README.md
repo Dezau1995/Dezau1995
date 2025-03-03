@@ -2,9 +2,9 @@
 
 <p>I am currently working as a full-stack web developer on a work-study program at Compani while attending Wild Code School, since September 2024.</p>
 
-<p>I obtained my Bac +2 certification after completing five months of intensive training at Wild Code School. Following this training, three projects were developed, one of which was deployed and put into production using OVH Cloud.</p>
+<p>🧑‍🎓 I obtained my Bac +2 certification after completing five months of intensive training at Wild Code School. Following this training, three projects were developed, one of which was deployed and put into production using OVH Cloud.</p>
 
-<p>Through this work-study program, I will have the opportunity to create a project from scratch to production, as part of a team of six people. We have the freedom to choose the technologies and stack to use, as well as to work on graphic design and user experience.</p>
+<p>🔍 Through this work-study program, I will have the opportunity to create a project from scratch to production, as part of a team of six people. We have the freedom to choose the technologies and stack to use, as well as to work on graphic design and user experience.</p>
 
 <p>For the project, the chosen technologies/stack are: <br/>
 PostgreSQL, GraphQL, Codegen, TypeORM, React, Tailwind, TypeScript, Node.js, Apollo, Vite.js, Docker.</p>
