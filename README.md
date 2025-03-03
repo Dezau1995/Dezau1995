@@ -5,8 +5,6 @@
 <p>I obtained my Bac +2 certification after completing five months of intensive training at Wild Code School. Following this training, three projects were developed, one of which was deployed and put into production using OVH Cloud.</p>
 <p>Through this work-study program, I will have the opportunity to create a project from scratch to production, as part of a team of six people. We have the freedom to choose the technologies and stack to use, as well as to work on graphic design and user experience.</p>
 
-<p>🔮 I invite you to check <a href="https://aude-sedillo.vercel.app/" target="_blank">my Portfolio.</a></p>
-
 <p>🗄️ Here my <a href="www.linkedin.com/in/aude-sedillo" target="_blank">LinkedIn</a> page.</p>
 
 
@@ -40,5 +38,7 @@
 <p>🖌️ I also gained experience in the field of UX/UI, which allows me to be versatile in interface design.</p>
 
 <p>🔍 I am ready to learn and use any programming language or framework.</p>
+
+<p>🔮 I invite you to check <a href="https://aude-sedillo.vercel.app/" target="_blank">my Portfolio.</a></p>
 
 <p>📫 How to contact me: aude.sedillo@gmail.com</p>
