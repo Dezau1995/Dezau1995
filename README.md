@@ -21,7 +21,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F14E32?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-44883e?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Docker Image Size (tag)" src="https://img.shields.io/docker/image-size/:user/:repo/:tag">
+  <img alt="Docker" src="[https://img.shields.io/docker/image-size/:user/:repo/:tag](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)">
 </p>
 
 <p>📚 My training allowed me to acquire solid skills in HTML, CSS, JavaScript, SQL, utilizing the Node.js environment for execution, and the Express.js framework.</p>
