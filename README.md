@@ -22,6 +22,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F14E32?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-44883e?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white">
+  <img alt="Graphql" src="http://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white">
+  <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
 </p>
 
 <p>📚 My training allowed me to acquire solid skills in HTML, CSS, JavaScript, SQL, utilizing the Node.js environment for execution, and the Express.js framework.</p>
