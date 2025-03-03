@@ -26,9 +26,9 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Quasar" src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F14E32?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Quasar" src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" />
 </p>
 
 <p>📚 My training allowed me to acquire solid skills in HTML, CSS, JavaScript, SQL, utilizing the Node.js environment for execution, and the Express.js framework.</p>
